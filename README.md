@@ -17,5 +17,6 @@ The cleaned mask and the masked image are saved.
 
 Change the file input path and output path according to need.
 
+To run
 ```python
 py seperate.py
